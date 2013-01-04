@@ -1,0 +1,31 @@
+# Vim: set ft = yaml expandtab tabstop = 2 = 2 shiftwidth softtabstop = 2:
+web1 :
+  document_root :  / app / webroot
+  shared_writable_dirs :
+    -  app / tmp
+    -  app / tmp / cache
+    -  app / tmp / cache / models
+    -  app / tmp / cache / persistente
+    -  app / tmp / cache / views
+    -  app / tmp logs /
+    -  app / tmp / sessions
+    -  app / tmp / testes
+  php_extensions :
+    -  mcrypt
+    -  mbstring
+    -  pdo_mysql
+    -  apc
+  after_build :
+    -  "mv  app / config / database.php.pagoda  app / config / database.php "
+  before_deploy :
+    # Https://github.com/CakeDC/migrations
+    -  "app / Console / bolo  Migrations.migration  todos "
+  after_deploy :
+    -  "rm  -rf  app / tmp / cache / models / * "
+    -  "rm  -rf  app / tmp / cache / persistente / * "
+    -  "rm  -rf  app / tmp / cache / views / * "
+  # Parar cabeçalho Content-Length de ser definido, por padrão, o valor é incorreto
+  php_zlib_output_compression :  On
+ 
+db1 :
+  Tipo :  mysql
