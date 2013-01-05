@@ -50,7 +50,7 @@ $cakeDescription = __d('cake_dev', 'FFJ');
        </div>
     </div>
     <!--Footer-->
-    <?php echo $this->element('credito', array('titulo'=>'Desenvolvido:', 'nome'=>'Fernando Nogueira')); ?>
+    <?php echo $this->element('credito', array('titulo'=>'Desenvolvido: ', 'nome'=>'Fernando Nogueira')); ?>
 
 </body>
 </html>
