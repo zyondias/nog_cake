@@ -39,7 +39,7 @@ $cakeDescription = __d('cake_dev', 'FFJ');
 <body>
 
 <div id="templatemo_body_wrapper">
-	<div id="templatemo_wrapper">
+	<div id="templatemo_wrapper">''
     	
         <div id="templatemo_header">
             <div id="site_title"><h1><?php echo $this->Html->link('O Evento', '/evento'); ?></h1></div>
@@ -69,12 +69,7 @@ $cakeDescription = __d('cake_dev', 'FFJ');
 		
        </div>
 </div>
-<div id="templatemo_footer_wrapper">
-    <div id="templatemo_footer">
-        Desenvolvido: Fernando Nogueira
-        <div class="cleaner"></div>
-    </div>
-</div>
-
+<!--Footer-->
+<?php echo $this->element('credito', array('titulo'=>'Desenvolvido:', 'nome'=>'Fernando Nogueira')); ?>
 </body>
 </html>
