@@ -1,0 +1,1759 @@
+2012-12-17 14:44:54 Error: [MissingControllerException] Controller class Index.phpController could not be found.
+#0 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-17 14:45:54 Error: [MissingControllerException] Controller class Index.phpController could not be found.
+#0 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-21 01:46:48 Error: [MissingActionException] Action AppController::View() could not be found.
+#0 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-12-21 15:55:15 Error: [MissingControllerException] Controller class OldHomeController could not be found.
+#0 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-30 19:09:36 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\evento.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('evento')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('evento', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('evento')
+#3 [internal function]: PagesController->display('evento')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-12-30 19:09:53 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\eventos.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('eventos')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('eventos', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('eventos')
+#3 [internal function]: PagesController->display('eventos')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-12-30 19:10:32 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\eventos.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('eventos')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('eventos', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('eventos')
+#3 [internal function]: PagesController->display('eventos')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-12-30 19:15:05 Error: [MissingActionException] Action PagesController::evento() could not be found.
+#0 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-12-30 19:21:50 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\evento\localizacao.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('evento/localiza...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('evento/localiza...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('evento/localiza...')
+#3 [internal function]: PagesController->display('evento', 'localizacao')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:17:26 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\css\images\templatemo_body.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('css/images/temp...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('css/images/temp...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('css/images/temp...')
+#3 [internal function]: PagesController->display('css', 'images', 'templatemo_body...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:17:26 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:17:26 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\css\images\templatemo_top.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('css/images/temp...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('css/images/temp...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('css/images/temp...')
+#3 [internal function]: PagesController->display('css', 'images', 'templatemo_top....')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:17:26 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\css\images\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('css/images/temp...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('css/images/temp...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('css/images/temp...')
+#3 [internal function]: PagesController->display('css', 'images', 'templatemo_midd...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:17:26 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\css\images\logo.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('css/images/logo...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('css/images/logo...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('css/images/logo...')
+#3 [internal function]: PagesController->display('css', 'images', 'logo.png')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:17:30 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\about.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('about.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('about.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('about.html')
+#3 [internal function]: PagesController->display('about.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:17:30 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:16 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\css\images\logo.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('css/images/logo...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('css/images/logo...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('css/images/logo...')
+#3 [internal function]: PagesController->display('css', 'images', 'logo.png')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:16 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\css\images\templatemo_body.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('css/images/temp...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('css/images/temp...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('css/images/temp...')
+#3 [internal function]: PagesController->display('css', 'images', 'templatemo_body...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:16 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\css\images\templatemo_top.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('css/images/temp...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('css/images/temp...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('css/images/temp...')
+#3 [internal function]: PagesController->display('css', 'images', 'templatemo_top....')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:16 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\css\images\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('css/images/temp...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('css/images/temp...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('css/images/temp...')
+#3 [internal function]: PagesController->display('css', 'images', 'templatemo_midd...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:16 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:21 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:21 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\img\ok.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/ok.png')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('img/ok.png', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('img/ok.png')
+#3 [internal function]: PagesController->display('img', 'ok.png')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:21 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:21 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\img\ok.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/ok.png')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('img/ok.png', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('img/ok.png')
+#3 [internal function]: PagesController->display('img', 'ok.png')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:21 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\img\ok.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/ok.png')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('img/ok.png', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('img/ok.png')
+#3 [internal function]: PagesController->display('img', 'ok.png')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:21 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:22 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\img\ok.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/ok.png')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('img/ok.png', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('img/ok.png')
+#3 [internal function]: PagesController->display('img', 'ok.png')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:22 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:22 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\img\ok.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/ok.png')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('img/ok.png', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('img/ok.png')
+#3 [internal function]: PagesController->display('img', 'ok.png')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:22 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:22 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\img\ok.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/ok.png')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('img/ok.png', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('img/ok.png')
+#3 [internal function]: PagesController->display('img', 'ok.png')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:22 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:22 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\img\ok.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/ok.png')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('img/ok.png', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('img/ok.png')
+#3 [internal function]: PagesController->display('img', 'ok.png')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:22 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:52 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\about.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('about.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('about.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('about.html')
+#3 [internal function]: PagesController->display('about.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:52 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:52 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\css\img\templatemo_body.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('css/img/templat...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('css/img/templat...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('css/img/templat...')
+#3 [internal function]: PagesController->display('css', 'img', 'templatemo_body...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:52 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\css\images\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('css/images/temp...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('css/images/temp...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('css/images/temp...')
+#3 [internal function]: PagesController->display('css', 'images', 'templatemo_midd...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:52 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\css\images\logo.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('css/images/logo...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('css/images/logo...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('css/images/logo...')
+#3 [internal function]: PagesController->display('css', 'images', 'logo.png')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:52 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\css\images\templatemo_top.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('css/images/temp...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('css/images/temp...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('css/images/temp...')
+#3 [internal function]: PagesController->display('css', 'images', 'templatemo_top....')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:54 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\about.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('about.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('about.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('about.html')
+#3 [internal function]: PagesController->display('about.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:55 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:55 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\about.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('about.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('about.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('about.html')
+#3 [internal function]: PagesController->display('about.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:56 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:56 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\about.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('about.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('about.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('about.html')
+#3 [internal function]: PagesController->display('about.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:56 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:56 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\about.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('about.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('about.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('about.html')
+#3 [internal function]: PagesController->display('about.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:56 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:57 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\about.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('about.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('about.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('about.html')
+#3 [internal function]: PagesController->display('about.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:57 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:57 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\about.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('about.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('about.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('about.html')
+#3 [internal function]: PagesController->display('about.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:57 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:58 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\index.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('index.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('index.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('index.html')
+#3 [internal function]: PagesController->display('index.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:18:58 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:19:00 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\index.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('index.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('index.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('index.html')
+#3 [internal function]: PagesController->display('index.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:19:00 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:19:00 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\index.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('index.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('index.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('index.html')
+#3 [internal function]: PagesController->display('index.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:19:00 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:19:00 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\index.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('index.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('index.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('index.html')
+#3 [internal function]: PagesController->display('index.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:19:00 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:19:00 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\index.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('index.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('index.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('index.html')
+#3 [internal function]: PagesController->display('index.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:19:00 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:19:01 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\index.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('index.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('index.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('index.html')
+#3 [internal function]: PagesController->display('index.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:19:01 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:19:01 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\index.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('index.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('index.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('index.html')
+#3 [internal function]: PagesController->display('index.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:19:01 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:19:01 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\index.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('index.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('index.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('index.html')
+#3 [internal function]: PagesController->display('index.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:19:01 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:19:01 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\index.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('index.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('index.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('index.html')
+#3 [internal function]: PagesController->display('index.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:19:01 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:19:02 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\index.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('index.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('index.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('index.html')
+#3 [internal function]: PagesController->display('index.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:19:02 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\index.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('index.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('index.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('index.html')
+#3 [internal function]: PagesController->display('index.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:19:02 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:19:21 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\about.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('about.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('about.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('about.html')
+#3 [internal function]: PagesController->display('about.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:19:21 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:19:25 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\index.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('index.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('index.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('index.html')
+#3 [internal function]: PagesController->display('index.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:19:25 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:21:31 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\css\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('css/img/templat...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('css/img/templat...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('css/img/templat...')
+#3 [internal function]: PagesController->display('css', 'img', 'templatemo_midd...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:21:31 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\css\img\templatemo_body.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('css/img/templat...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('css/img/templat...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('css/img/templat...')
+#3 [internal function]: PagesController->display('css', 'img', 'templatemo_body...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:21:31 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\css\images\logo.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('css/images/logo...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('css/images/logo...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('css/images/logo...')
+#3 [internal function]: PagesController->display('css', 'images', 'logo.png')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:21:31 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\css\img\templatemo_top.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('css/img/templat...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('css/img/templat...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('css/img/templat...')
+#3 [internal function]: PagesController->display('css', 'img', 'templatemo_top....')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:21:31 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:23:01 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:23:01 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\css\images\logo.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('css/images/logo...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('css/images/logo...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('css/images/logo...')
+#3 [internal function]: PagesController->display('css', 'images', 'logo.png')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:23:01 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\css\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('css/img/templat...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('css/img/templat...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('css/img/templat...')
+#3 [internal function]: PagesController->display('css', 'img', 'templatemo_midd...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:23:01 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\css\img\templatemo_top.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('css/img/templat...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('css/img/templat...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('css/img/templat...')
+#3 [internal function]: PagesController->display('css', 'img', 'templatemo_top....')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:24:31 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:24:31 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:24:31 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\css\images\logo.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('css/images/logo...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('css/images/logo...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('css/images/logo...')
+#3 [internal function]: PagesController->display('css', 'images', 'logo.png')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:24:33 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:24:43 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\about.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('about.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('about.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('about.html')
+#3 [internal function]: PagesController->display('about.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:24:43 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:24:46 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\index.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('index.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('index.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('index.html')
+#3 [internal function]: PagesController->display('index.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:24:46 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:24:47 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\about.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('about.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('about.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('about.html')
+#3 [internal function]: PagesController->display('about.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:24:47 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:24:52 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\index.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('index.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('index.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('index.html')
+#3 [internal function]: PagesController->display('index.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:24:52 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:25:53 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\templatemo_icon_01.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/template...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/template...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/template...')
+#3 [internal function]: PagesController->display('images', 'templatemo_icon...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:25:53 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:25:53 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\css\images\logo.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('css/images/logo...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('css/images/logo...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('css/images/logo...')
+#3 [internal function]: PagesController->display('css', 'images', 'logo.png')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:32:30 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\about.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('about.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('about.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('about.html')
+#3 [internal function]: PagesController->display('about.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:32:32 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\index.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('index.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('index.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('index.html')
+#3 [internal function]: PagesController->display('index.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:32:34 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\index.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('index.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('index.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('index.html')
+#3 [internal function]: PagesController->display('index.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:33:54 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\index.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('index.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('index.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('index.html')
+#3 [internal function]: PagesController->display('index.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:33:54 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\css\images\logo.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('css/images/logo...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('css/images/logo...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('css/images/logo...')
+#3 [internal function]: PagesController->display('css', 'images', 'logo.png')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:33:54 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:34:31 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\index.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('index.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('index.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('index.html')
+#3 [internal function]: PagesController->display('index.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:34:31 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:34:31 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\logo.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/logo.png')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/logo.png', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/logo.png')
+#3 [internal function]: PagesController->display('images', 'logo.png')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:34:32 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\index.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('index.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('index.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('index.html')
+#3 [internal function]: PagesController->display('index.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:34:33 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\index.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('index.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('index.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('index.html')
+#3 [internal function]: PagesController->display('index.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:34:43 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\index.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('index.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('index.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('index.html')
+#3 [internal function]: PagesController->display('index.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:34:43 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:35:06 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\index.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('index.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('index.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('index.html')
+#3 [internal function]: PagesController->display('index.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:41:04 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\index.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('index.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('index.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('index.html')
+#3 [internal function]: PagesController->display('index.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:42:30 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\index.html.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('index.html')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('index.html', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('index.html')
+#3 [internal function]: PagesController->display('index.html')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:42:31 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\home.ctp.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('home.ctp')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('home.ctp', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('home.ctp')
+#3 [internal function]: PagesController->display('home.ctp')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:42:34 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\home.ctp.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('home.ctp')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('home.ctp', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('home.ctp')
+#3 [internal function]: PagesController->display('home.ctp')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:42:35 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\home.ctp.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('home.ctp')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('home.ctp', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('home.ctp')
+#3 [internal function]: PagesController->display('home.ctp')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:43:14 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\home.ctp.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('home.ctp')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('home.ctp', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('home.ctp')
+#3 [internal function]: PagesController->display('home.ctp')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:43:15 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\home.ctp.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('home.ctp')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('home.ctp', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('home.ctp')
+#3 [internal function]: PagesController->display('home.ctp')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:43:17 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\home.ctp.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('home.ctp')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('home.ctp', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('home.ctp')
+#3 [internal function]: PagesController->display('home.ctp')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:43:24 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\home.ctp.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('home.ctp')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('home.ctp', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('home.ctp')
+#3 [internal function]: PagesController->display('home.ctp')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:43:47 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\home.ctp.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('home.ctp')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('home.ctp', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('home.ctp')
+#3 [internal function]: PagesController->display('home.ctp')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:43:49 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\home.ctp.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('home.ctp')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('home.ctp', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('home.ctp')
+#3 [internal function]: PagesController->display('home.ctp')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:43:50 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\home.ctp.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('home.ctp')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('home.ctp', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('home.ctp')
+#3 [internal function]: PagesController->display('home.ctp')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:44:05 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\pages\home.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('pages/home')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('pages/home', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('pages/home')
+#3 [internal function]: PagesController->display('pages', 'home')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:44:07 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\pages\home.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('pages/home')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('pages/home', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('pages/home')
+#3 [internal function]: PagesController->display('pages', 'home')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:44:09 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\pages\home.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('pages/home')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('pages/home', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('pages/home')
+#3 [internal function]: PagesController->display('pages', 'home')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:45:46 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\pages\home.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('pages/home')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('pages/home', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('pages/home')
+#3 [internal function]: PagesController->display('pages', 'home')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:45:49 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\pages\home.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('pages/home')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('pages/home', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('pages/home')
+#3 [internal function]: PagesController->display('pages', 'home')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:45:55 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\comochegar.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('comochegar')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('comochegar', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('comochegar')
+#3 [internal function]: PagesController->display('comochegar')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 01:54:13 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\images\dexter.png.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('images/dexter.p...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('images/dexter.p...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('images/dexter.p...')
+#3 [internal function]: PagesController->display('images', 'dexter.png')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 02:05:46 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 02:06:35 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 02:06:57 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 02:09:23 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 02:09:31 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 02:09:37 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 02:10:47 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 02:12:02 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 02:13:04 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 02:14:00 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 02:14:40 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 02:19:13 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 02:22:36 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 10:57:47 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 11:38:12 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 11:38:22 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 11:38:31 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 11:38:54 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-03 12:45:33 Error: [MissingViewException] View file "C:\wamp\www\curso_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\curso_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\curso_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\curso_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\curso_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\curso_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-05 18:11:38 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-05 18:11:39 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-05 18:11:47 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-05 18:11:50 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-05 18:17:58 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-05 18:18:00 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-05 18:18:01 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-05 18:18:02 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-05 18:18:05 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-05 18:18:07 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-05 18:18:08 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-05 18:18:08 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-05 18:18:11 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-05 18:21:52 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-05 18:21:54 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-05 18:22:49 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-05 18:22:51 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-05 18:23:27 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-05 18:23:36 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-05 18:23:38 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-05 18:25:35 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-05 18:25:56 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-05 18:26:00 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-05 18:26:01 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-05 20:10:45 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Pages\img\templatemo_middle.jpg.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('img/templatemo_...')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('img/templatemo_...', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\PagesController.php(73): Controller->render('img/templatemo_...')
+#3 [internal function]: PagesController->display('img', 'templatemo_midd...')
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}

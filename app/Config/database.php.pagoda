@@ -1,0 +1,21 @@
+<? Php
+/ / Fonte:
+define ("DB_HOST", $ _SERVER ['DB1_HOST']);
+define ("DB_NAME", $ _SERVER ['DB1_NAME']);
+define ("DB_USER", $ _SERVER ['DB1_USER']);
+define ("DB_PASS", $ _SERVER ['DB1_PASS']);
+define ("DB_PORT", $ _SERVER ['DB1_PORT']);
+ 
+DATABASE_CONFIG classe {
+ 
+    public $ default = array (
+        'Datasource' => 'Banco de Dados / Mysql ",
+        'Persistente' => false,
+        'Host' => DB_HOST,
+        'Login' => DB_USER,
+        'Password' => DB_PASS,
+        'Banco de dados' => DB_NAME,
+        'Prefix' =>'',
+        'Porto' => DB_PORT,
+    );
+}
