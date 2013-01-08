@@ -175,3 +175,26 @@ CakeLog::config('error', array(
     'types' => array('warning', 'error', 'critical', 'alert', 'emergency'),
     'file' => 'error',
 ));
+
+/**
+ * Inflections Fernando Nogueira
+ */
+Inflector::rules('singular', array(
+    'rules' => array(
+        '/^(.*)ao$/i' => '\1oes',
+    ),
+    'irregular' => array(
+        'inscricoes' => 'inscricao'
+    ),
+    'uninflected' => array()
+));
+
+Inflector::rules('plural', array(
+    'rules' => array(
+        '/^(.*)ao$/i' => '\1oes',
+    ),
+    'irregular' => array(
+        'inscricao' => 'inscricoes'
+    ),
+    'uninflected' => array()
+));

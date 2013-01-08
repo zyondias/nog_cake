@@ -1,5 +1,5 @@
 <div id="templatemo_header">
-    <div id="site_title"><h1><?php echo $this->Html->link('O Evento', '/evento'); ?></h1></div>
+    <div id="site_title"><h1><?php echo $this->Html->link('O Evento', array('controller' => 'pages', 'action' => 'display', 'evento')); ?></h1></div>
     <?php echo $this->element('menu');?>
 </div><!-- end of header -->
 

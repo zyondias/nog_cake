@@ -29,7 +29,9 @@ $cakeDescription = __d('cake_dev', 'FFJ');
 	<?php
 		echo $this->Html->meta('icon');
 
-		echo $this->Html->css('style');
+		echo $this->Html->css(array('style', 'bootstrap.min'));
+                echo $this->Html->script('bootstrap.min');
+                echo $this->Html->script('http://code.jquery.com/jquery-latest.js');
 
 		echo $this->fetch('meta');
 		echo $this->fetch('css');
