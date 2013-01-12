@@ -3,7 +3,7 @@
 class InscricoesController extends AppController{
     
     //Especifica o Model que estou utilizando quando não uso Inflections
-    public $uses = array('Inscricao');
+    //public $uses = array('Inscricao');
     
     //Action
     public function inscrever(){
@@ -14,9 +14,11 @@ class InscricoesController extends AppController{
         if($isPost && !empty($this->request->data)){
             //Tenta salvar os dados
             if($this->Inscricao->save($this->request->data)){
-                $this->redirect(array('controller' => 'pages', 'action' => 'display', 'obrigado'));
+                $this->redirect(array('controller' => 'inscricoes', 'action' => 'obrigado'));
             }
         }
     }
+    
+    public function obrigado(){}
 }
 ?>

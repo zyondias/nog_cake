@@ -31,7 +31,7 @@ $cakeDescription = __d('cake_dev', 'FFJ');
 
 		echo $this->Html->css(array('style', 'bootstrap.min'));
                 echo $this->Html->script('bootstrap.min');
-                echo $this->Html->script('http://code.jquery.com/jquery-latest.js');
+                echo $this->Html->script('jquery-ui-1.8.7.custom.min');
 
 		echo $this->fetch('meta');
 		echo $this->fetch('css');

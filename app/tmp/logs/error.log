@@ -4009,3 +4009,1278 @@
 2013-01-08 17:24:39 Error: [MissingControllerException] Controller class JsController could not be found.
 #0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2013-01-09 20:49:45 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 20:50:35 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 20:51:05 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 20:51:21 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 20:51:23 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 20:52:22 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 20:54:33 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 20:54:50 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 20:54:51 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 20:54:58 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 20:56:22 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 20:56:24 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 20:56:24 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 20:56:30 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 20:56:50 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 20:57:16 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 20:58:09 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 20:58:09 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 20:58:13 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 20:58:13 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 20:58:15 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 20:58:15 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 20:58:18 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 20:58:18 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 20:58:33 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 20:58:34 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:00:42 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:00:42 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:02:44 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:02:44 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:02:47 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:02:47 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:02:48 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:02:48 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:02:50 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:02:50 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:03:06 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:03:06 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:03:15 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:03:15 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:11:18 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:11:18 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:11:21 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Inscricoes\inscrever.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName(NULL)
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render(NULL, NULL)
+#2 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(193): Controller->render()
+#3 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(InscricoesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-01-09 21:11:21 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:11:21 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:11:51 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:11:51 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:11:52 Error: [MissingControllerException] Controller class KakaController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:11:52 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:11:52 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:12:23 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:12:23 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:12:24 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:12:24 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:12:25 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:12:25 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:12:26 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:12:26 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:13:15 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:13:17 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:13:17 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:13:19 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:13:19 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:13:19 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:13:19 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:13:19 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:13:19 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:13:20 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:13:20 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:13:22 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:13:22 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:13:27 Error: [MissingControllerException] Controller class InscricaoController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:13:27 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:13:27 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:13:27 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:13:30 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Inscricoes\inscrever.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName(NULL)
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render(NULL, NULL)
+#2 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(193): Controller->render()
+#3 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(InscricoesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-01-09 21:13:30 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:13:30 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:13:30 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:13:47 Error: [MissingControllerException] Controller class InscricoesControllerController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:13:47 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:13:47 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:14:05 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Inscricoes\inscrever.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName(NULL)
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render(NULL, NULL)
+#2 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(193): Controller->render()
+#3 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(InscricoesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-01-09 21:14:05 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:14:05 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:14:05 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:16:53 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:16:53 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:16:54 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Inscricoes\inscrever.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName(NULL)
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render(NULL, NULL)
+#2 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(193): Controller->render()
+#3 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(InscricoesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-01-09 21:16:54 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:16:54 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:20:49 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:20:49 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:20:50 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Inscricoes\inscrever.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName(NULL)
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render(NULL, NULL)
+#2 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(193): Controller->render()
+#3 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(InscricoesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-01-09 21:20:50 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:20:50 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:22:14 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Inscricoes\inscrever.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('inscrever')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('inscrever', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\InscricoesController.php(10): Controller->render('inscrever')
+#3 [internal function]: InscricoesController->inscrever()
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(InscricoesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(InscricoesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-09 21:22:14 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:22:14 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:22:15 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:22:15 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:22:17 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Inscricoes\inscrever.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('inscrever')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('inscrever', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\InscricoesController.php(10): Controller->render('inscrever')
+#3 [internal function]: InscricoesController->inscrever()
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(InscricoesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(InscricoesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-09 21:22:17 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:22:17 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:22:40 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:22:40 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:22:41 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Inscricoes\inscrever.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('inscrever')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('inscrever', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\InscricoesController.php(10): Controller->render('inscrever')
+#3 [internal function]: InscricoesController->inscrever()
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(InscricoesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(InscricoesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-09 21:22:41 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:22:41 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:23:37 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:23:37 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:23:38 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:23:38 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:23:40 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Inscricoes\inscrever.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('inscrever')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('inscrever', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\InscricoesController.php(10): Controller->render('inscrever')
+#3 [internal function]: InscricoesController->inscrever()
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(InscricoesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(InscricoesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-09 21:23:40 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:23:40 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:23:44 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:23:44 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:23:46 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:23:46 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:24:30 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:24:30 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:24:31 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Inscricoes\inscrever.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('inscrever')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('inscrever', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\InscricoesController.php(10): Controller->render('inscrever')
+#3 [internal function]: InscricoesController->inscrever()
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(InscricoesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(InscricoesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-09 21:24:31 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:24:31 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:25:16 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:25:16 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:25:17 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Inscricoes\inscrever.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('inscrever')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('inscrever', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\InscricoesController.php(10): Controller->render('inscrever')
+#3 [internal function]: InscricoesController->inscrever()
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(InscricoesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(InscricoesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-09 21:25:17 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:25:17 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:25:46 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:25:46 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:25:47 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:25:47 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:25:49 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Inscricoes\inscrever.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('inscrever')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('inscrever', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\InscricoesController.php(10): Controller->render('inscrever')
+#3 [internal function]: InscricoesController->inscrever()
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(InscricoesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(InscricoesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-09 21:25:49 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:25:49 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:26:19 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Inscricoes\inscrever.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('inscrever')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('inscrever', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\InscricoesController.php(10): Controller->render('inscrever')
+#3 [internal function]: InscricoesController->inscrever()
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(InscricoesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(InscricoesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-09 21:26:19 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:26:19 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:26:20 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:26:20 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:26:21 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Inscricoes\inscrever.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('inscrever')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('inscrever', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\InscricoesController.php(10): Controller->render('inscrever')
+#3 [internal function]: InscricoesController->inscrever('inscrever')
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(InscricoesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(InscricoesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-09 21:26:21 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:26:21 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:26:35 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:26:35 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:26:36 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Inscricoes\inscrever.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('inscrever')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('inscrever', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\InscricoesController.php(10): Controller->render('inscrever')
+#3 [internal function]: InscricoesController->inscrever()
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(InscricoesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(InscricoesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-09 21:26:36 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:26:36 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:26:52 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:26:52 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:28:14 Error: [MissingActionException] Action PagesController::comochegar() could not be found.
+#0 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-01-09 21:28:14 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:28:14 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:28:15 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:28:15 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:28:16 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:28:16 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:28:20 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Inscricoes\inscrever.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('inscrever')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('inscrever', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\InscricoesController.php(10): Controller->render('inscrever')
+#3 [internal function]: InscricoesController->inscrever()
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(InscricoesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(InscricoesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-09 21:28:20 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:28:20 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:28:39 Error: [MissingActionException] Action PagesController::inscrever() could not be found.
+#0 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-01-09 21:28:39 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:28:39 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:30:29 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Inscricoes\inscrever.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName(NULL)
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render(NULL, NULL)
+#2 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(193): Controller->render()
+#3 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(InscricoesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-01-09 21:30:29 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:30:29 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:30:32 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Inscricoes\inscrever.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName(NULL)
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render(NULL, NULL)
+#2 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(193): Controller->render()
+#3 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(InscricoesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-01-09 21:30:32 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:30:32 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:30:34 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:30:34 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:30:35 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Inscricoes\inscrever.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName(NULL)
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render(NULL, NULL)
+#2 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(193): Controller->render()
+#3 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(InscricoesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-01-09 21:30:35 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:30:35 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:31:22 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:31:22 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:31:23 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:31:23 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:31:24 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Inscricoes\inscrever.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName(NULL)
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render(NULL, NULL)
+#2 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(193): Controller->render()
+#3 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(InscricoesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-01-09 21:31:24 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:31:24 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:31:49 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Pages\inscrever.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName('inscrever')
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render('inscrever', NULL)
+#2 C:\wamp\www\nog_cake\app\Controller\PagesController.php(73): Controller->render('inscrever')
+#3 [internal function]: PagesController->display('inscrever')
+#4 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-01-09 21:31:49 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:31:49 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:38:11 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:38:11 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:38:15 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Usuarios\cadastrar.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName(NULL)
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render(NULL, NULL)
+#2 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(193): Controller->render()
+#3 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-01-09 21:38:15 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:38:15 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:40:25 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Usuarios\cadastrar.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName(NULL)
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render(NULL, NULL)
+#2 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(193): Controller->render()
+#3 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-01-09 21:40:25 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:40:25 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:40:27 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Inscricoes\inscrever.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName(NULL)
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render(NULL, NULL)
+#2 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(193): Controller->render()
+#3 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(InscricoesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-01-09 21:40:27 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:40:27 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:40:29 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Usuarios\cadastrar.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName(NULL)
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render(NULL, NULL)
+#2 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(193): Controller->render()
+#3 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-01-09 21:40:29 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:40:29 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:41:12 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Usuarios\cadastrar.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName(NULL)
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render(NULL, NULL)
+#2 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(193): Controller->render()
+#3 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-01-09 21:41:12 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:41:12 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:41:13 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Usuarios\cadastrar.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName(NULL)
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render(NULL, NULL)
+#2 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(193): Controller->render()
+#3 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-01-09 21:41:13 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:41:13 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:41:15 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:41:15 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:41:16 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Usuarios\cadastrar.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName(NULL)
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render(NULL, NULL)
+#2 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(193): Controller->render()
+#3 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-01-09 21:41:17 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:41:17 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:41:40 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:41:40 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:41:41 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Usuarios\cadastrar.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName(NULL)
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render(NULL, NULL)
+#2 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(193): Controller->render()
+#3 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-01-09 21:41:41 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:41:41 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:41:43 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Inscricoes\inscrever.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName(NULL)
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render(NULL, NULL)
+#2 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(193): Controller->render()
+#3 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(InscricoesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-01-09 21:41:43 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:41:43 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:41:48 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Usuarios\cadastrar.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName(NULL)
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render(NULL, NULL)
+#2 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(193): Controller->render()
+#3 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-01-09 21:41:48 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:41:48 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:47:04 Error: [MissingViewException] View file "C:\wamp\www\nog_cake\app\View\Inscricoes\inscrever.ctp" is missing.
+#0 C:\wamp\www\nog_cake\lib\Cake\View\View.php(473): View->_getViewFileName(NULL)
+#1 C:\wamp\www\nog_cake\lib\Cake\Controller\Controller.php(956): View->render(NULL, NULL)
+#2 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(193): Controller->render()
+#3 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(InscricoesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-01-09 21:47:04 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-09 21:47:04 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:29:08 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:29:08 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:29:08 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:29:10 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:29:10 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:29:11 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:30:50 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:30:50 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:30:50 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:30:56 Error: [MissingActionException] Action InscricoesController::obrigado() could not be found.
+#0 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(InscricoesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-01-10 03:30:56 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:30:56 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:30:56 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:32:46 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:32:46 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:32:46 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:32:55 Error: [MissingActionException] Action InscricoesController::obrigado() could not be found.
+#0 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(InscricoesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-01-10 03:32:55 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:32:56 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:32:56 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:33:55 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:33:55 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:33:55 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:34:04 Error: [MissingActionException] Action InscricoesController::obrigado() could not be found.
+#0 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\nog_cake\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(InscricoesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-01-10 03:34:04 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:34:04 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:34:04 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:35:19 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:35:19 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:35:19 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:35:34 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:35:34 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:35:34 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:35:44 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:35:44 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:35:44 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:39:32 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:39:32 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:39:32 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:40:05 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:40:05 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:40:05 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:40:06 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:40:06 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:40:06 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:40:43 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:40:43 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:40:44 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:44:10 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:44:10 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:44:10 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:44:34 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:44:34 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:44:36 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:44:36 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:45:37 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:45:37 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:45:41 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:45:41 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:45:41 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:46:56 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:46:56 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:46:58 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:46:58 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:46:59 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:46:59 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:46:59 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:46:59 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:47:00 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:47:00 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:47:01 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:47:01 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:47:02 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:47:02 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:47:02 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:52:30 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:52:30 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:58:16 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 03:58:16 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 04:14:21 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 04:14:21 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 04:14:21 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 04:18:47 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 04:18:47 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 04:18:47 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 04:20:31 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 04:20:31 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 04:20:31 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 04:26:19 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 04:26:19 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 04:26:19 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 04:26:30 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 04:26:31 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 04:26:32 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 04:26:32 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 04:28:54 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 04:28:54 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 04:28:54 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 04:29:10 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-10 04:29:10 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 22:41:39 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 22:41:39 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 22:41:39 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 22:41:42 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 22:41:42 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:22:52 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:22:52 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:22:53 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:23:45 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:23:45 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:23:45 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:24:18 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:24:18 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:24:38 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:24:38 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:24:38 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:25:00 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:25:00 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:25:22 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:25:22 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:25:22 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:25:50 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:25:50 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:25:50 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:28:04 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:28:04 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:29:22 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:29:22 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:29:22 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:30:32 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:30:32 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:30:33 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:31:29 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:31:29 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:31:29 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:32:04 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:32:04 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:32:04 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:34:27 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:34:27 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:34:52 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-01-12 23:34:52 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\wamp\www\nog_cake\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

@@ -28,14 +28,13 @@
  */
 /* Router para exibir a home do site - Fernando Nogueira*/
 Router::connect('/', array('controller' => 'pages', 'action' => 'display', 'evento'));
+Router::connect('/comochegar', array('controller' => 'pages', 'action' => 'display', 'comochegar'));
+Router::connect('/inscrever', array('controller' => 'inscricoes', 'action' => 'inscrever'));
 /**
  * ...and connect the rest of 'Pages' controller's urls.
  */
-/*Router::connect('/pages/*', array('controller' => 'pages', 'action' => 'display'));
-/* Router para exibir da raiz - Fernando Nogueira*/
-/*Router::connect('/*', array('controller' => 'pages', 'action' => 'display'));*/
-Router::connect('/inscrever', array('controller' => 'inscricoes', 'action' => 'inscrever'));
-/*outer::connect('inscricoes/obrigado', array('controller' => 'pages', 'action' => 'display'));*/
+/*Router::connect('/pages/*', array('controller' => 'pages', 'action' => 'display'));*/
+Router::connect('/obrigado', array('controller' => 'inscricoes', 'action' => 'obrigado'));
 
 /**
  * Load all plugin routes.  See the CakePlugin documentation on
