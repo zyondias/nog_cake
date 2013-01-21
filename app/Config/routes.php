@@ -30,6 +30,7 @@
 Router::connect('/', array('controller' => 'pages', 'action' => 'display', 'evento'));
 Router::connect('/comochegar', array('controller' => 'pages', 'action' => 'display', 'comochegar'));
 Router::connect('/inscrever', array('controller' => 'inscricoes', 'action' => 'inscrever'));
+Router::connect('/palestrantes/:nome/:id', array('controller' => 'palestrantes', 'action' => 'perfil'), array('pass' => array('id')));
 /**
  * ...and connect the rest of 'Pages' controller's urls.
  */

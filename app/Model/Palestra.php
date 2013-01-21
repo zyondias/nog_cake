@@ -2,7 +2,7 @@
 
     class Palestra extends AppModel{
         
-        public $hasOne = array('Palestrante');
+        public $belongsTo = array('Palestrante');
         
     }
     
