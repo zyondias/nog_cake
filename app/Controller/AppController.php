@@ -32,4 +32,44 @@ App::uses('Controller', 'Controller');
  * @link http://book.cakephp.org/2.0/en/controllers.html#the-app-controller
  */
 class AppController extends Controller {
+    
+    //Carregando AuthComponent
+    public $components = array('Session', 'Auth');
+
+    //Funcão para trocar layout default
+    protected function _isPrefix($prefix){
+        return isset($this->params['prefix']) && $this->params['prefix'] === $prefix;
+    }
+        
+    public function beforeFilter(){
+        if($this->_isPrefix('painel'))
+        {
+            $this->layout = 'painel'; //Layout padrão para prefixo
+        }
+        
+        $this->Auth->authenticate = array('Form' => array(
+            'userModel' => 'Usuario',
+            'fields' => array(
+                'username' => 'usuario',
+                'password' => 'senha')));
+        
+        $this->Auth->loginAction = array(
+            'controller' => 'usuarios',
+            'action' => 'login',
+            'painel' => true);
+        
+        $this->Auth->loginRedirect = array
+        (
+            'controller' => 'inscricoes',
+            'action' => 'index',
+            'painel' => true);
+        
+        if(!$this->_isPrefix('painel'))
+        {
+            $this->Auth->allow();
+        }
+        
+        parent::beforeFilter();
+    }
+    
 }

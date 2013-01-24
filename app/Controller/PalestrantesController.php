@@ -1,7 +1,9 @@
 <?php
 
     class PalestrantesController extends AppController{
-
+        
+        public $scaffold = 'painel';
+        
         public function index(){
         
             $palestrantes = $this->Palestrante->find('all');

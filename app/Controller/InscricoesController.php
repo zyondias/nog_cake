@@ -1,11 +1,16 @@
 <?php
 
 class InscricoesController extends AppController{
+     
+    public $scaffold = 'painel';
     
     //Especifica o Model que estou utilizando quando não uso Inflections
     //public $uses = array('Inscricao');
     
     //Action
+    
+    public function index(){}
+    
     public function inscrever(){
         
         $isPost = $this->request->isPost();
