@@ -39,7 +39,15 @@ $cakeDescription = __d('cake_dev', 'FFJ');
 <body>
 	<div id="container">
 		<div id="header">
-			<h1><?php echo $this->Html->link('Home', '/'); ?></h1>
+			<h1>
+                            <?php echo AuthComponent::user('nome'); ?>
+                            <?php echo $this->Html->link('Usuários', array('controller' => 'usuarios', 'action' => 'index')); ?>
+                            <?php echo $this->Html->link('Inscrições', array('controller' => 'inscricoes', 'action' => 'index')); ?>
+                            <?php echo $this->Html->link('Palestras', array('controller' => 'palestras', 'action' => 'index')); ?>
+                            <?php echo $this->Html->link('Palestrantes', array('controller' => 'palestrantes', 'action' => 'index')); ?>
+                            <?php echo $this->Html->link('Voltar ao Site', '/'); ?>
+                            <?php echo $this->Html->link('logout', array('controller' => 'usuarios', 'action' => 'logout', 'painel' => true)); ?>
+                        </h1>
 		</div>
 		<div id="content">
 

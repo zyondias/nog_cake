@@ -18,7 +18,6 @@ class UsuariosController extends AppController{
                     else
                     {
                             $this->Session->setFlash('Dados incorretos!', 'default', array(), 'auth');
-                            $this->Session->setFlash('Não mexa!');
                     }	
             }
 

@@ -50,7 +50,7 @@ class AppController extends Controller {
         $this->Auth->authenticate = array('Form' => array(
             'userModel' => 'Usuario',
             'fields' => array(
-                'username' => 'usuario',
+                'username' => 'login',
                 'password' => 'senha')));
         
         $this->Auth->loginAction = array(
@@ -63,6 +63,12 @@ class AppController extends Controller {
             'controller' => 'inscricoes',
             'action' => 'index',
             'painel' => true);
+        
+        $this->Auth->logoutRedirect = array
+        (
+            'controller' => 'pages',
+            'action' => 'display', 'evento',
+            'painel' => false);
         
         if(!$this->_isPrefix('painel'))
         {
