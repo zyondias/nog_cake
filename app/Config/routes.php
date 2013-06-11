@@ -31,6 +31,8 @@ Router::connect('/', array('controller' => 'pages', 'action' => 'display', 'even
 Router::connect('/comochegar', array('controller' => 'pages', 'action' => 'display', 'comochegar'));
 Router::connect('/inscrever', array('controller' => 'inscricoes', 'action' => 'inscrever'));
 Router::connect('/palestrantes/:nome/:id', array('controller' => 'palestrantes', 'action' => 'perfil'), array('pass' => array('id')));
+/*Essa é a minha rota*/
+Router::connect('/palestrantes/:nome/:id', array('controller' => 'palestrantes', 'action' => 'perfil'), array('pass' => array('id')));
 
 Router::connect('/painel', array('controller' => 'inscricoes', 'action' => 'add'));
 /**
